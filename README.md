@@ -26,4 +26,23 @@
 * Ciekawostkami o klubie
 * (Mogą być jeszcze inne elementy)
 
+#### 5. (Krótka) Historia 1.Bundesligi
+* Najważniejsze wydarzenia
+* Najlepsze mecze
+* Ciekawostki
+
+#### Nie wykluczam zaimplementowania innych elementów pod warunkiem, że uda się zrealizować powyższe elementy
+
 ### Funkcje:
+#### 1. Widok wertykalny (być może też horyzontalny)
+#### 2. Użytkownik może przeglądać wiadomości, tabele, informacje o klubie itd.
+#### 3. Możliwość założenia własnego konta w celu komentowania wiadomości w aktualnościach (Jeszcze rozważane)
+#### Nie wykluczam zaimplementowania innych funkcji, gdy uda się spełnić chociaż 2 pierwsze punkty.
+
+### * Technologie:
+#### Android Studio
+#### Coś do Baz danych (SQLite ? PHP ? )
+#### Jęśli chodzi język to być może JAVA
+
+##### * Nie ukrywam, że mam zerowe doświadczenie/umięjetnośći/wiedze o tworzeniu aplikacji mobilnych.
+##### Dlatego technologie,funkcje czy zawartość może ulec zmianie 
