@@ -7,7 +7,7 @@
  * Ilość sezonów rozegranych w 1.Bundeslidze
  * Liczba zdobytych punktów we wszystkich sezonach
 * (Mogą być jeszcze inne statystyki)
-* (Aktualizowana po stronie osoby tworzącej aplikacją)
+* (Aktualizowana po stronie osoby tworzącej aplikacje)
 
 #### 2. Tabele 1.Bundesligi z 5 ostatnich sezonów 
 * Pozycja drużyn, zdobyte punkty bramki zdobyte/stracone, bilans zwycięstw/remisów/porażek
@@ -44,5 +44,4 @@
 #### Coś do Baz danych (SQLite ? PHP ? )
 #### Jęśli chodzi język to być może JAVA
 
-##### * Nie ukrywam, że mam zerowe doświadczenie/umięjetnośći/wiedze o tworzeniu aplikacji mobilnych.
-##### Dlatego technologie,funkcje czy zawartość może ulec zmianie 
+##### * Nie ukrywam, że mam zerowe doświadczenie/umięjetnośći/wiedze o tworzeniu aplikacji mobilnych. Dlatego technologie,funkcje czy zawartość może ulec zmianie 
