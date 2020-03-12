@@ -44,4 +44,4 @@
 #### Coś do Baz danych (SQLite ? PHP ? )
 #### Jęśli chodzi język to być może JAVA
 
-##### * Nie ukrywam, że mam zerowe doświadczenie/umięjetnośći/wiedze o tworzeniu aplikacji mobilnych. Dlatego technologie,funkcje czy zawartość może ulec zmianie 
+##### * Nie ukrywam, że mam zerowe doświadczenie/umięjetnośći/wiedze o tworzeniu aplikacji mobilnych. Dlatego technologie,funkcje czy zawartość mogą ulec zmianie 
