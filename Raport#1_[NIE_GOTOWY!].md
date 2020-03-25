@@ -1,6 +1,6 @@
 # Raport 1 [25.III.2020]
 ## Wykonane:
-1. Szkic ekranów aplikacji 
+1. Szkic ekranów aplikacji -> Katalog "Szkice_Ekranów" w repozytorium -> pliki .png
 2. Zacząłem ogarniać język Java
 
 ## Zadania do wykonania do następnego raportu:
