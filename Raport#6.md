@@ -13,4 +13,6 @@
 ## Pozostałe informacje 
 1. Przepraszam, że nie dodałem do repozytorium kodu prototypu (zapomniałem przez natłok zadań z różnych przedmiotów).
 2. Ze względu na duże ilości informacji aplikacja będzie posiadać tylko kilka informacji o 5 klubach. Tak więc będzie to wersja Beta gdyby aplikacja trafiła do dystrybucji
-3. Ale jestem pewien, że większość założeń uda mi się spełnić (Te które postawiłem na początku punkty 1 i 2)
+3. Ale jestem pewien, że większość założeń uda mi się spełnić (Te które postawiłem na początku punkty 1 i 2 FUNKCJE)
+4. Czasem myślę sobie czy to co próbuje stworzyć może być zbyt ambitne jak na moje możliwośći.
+
