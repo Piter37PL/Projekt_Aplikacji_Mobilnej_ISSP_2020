@@ -16,3 +16,6 @@
 3. Ale jestem pewien, że większość założeń uda mi się spełnić (Te które postawiłem na początku punkty 1 i 2 FUNKCJE)
 4. Czasem myślę sobie czy to co próbuje stworzyć może być zbyt ambitne jak na moje możliwośći.
 
+##Aktualizacja 12.06
+1. Prototyp projektu został dodany do repozytorium
+
